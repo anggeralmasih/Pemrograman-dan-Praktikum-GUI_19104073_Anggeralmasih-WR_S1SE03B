@@ -57,3 +57,10 @@
 
 > C. Membuat String dengan format tertentu
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%20(format%20tertentu)%206.png">
+
+# 8. Tipe Koleksi
+> Membuat, menggabungkan dengan perulangan, dan memanggil List
+img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/8.%20tipe%20koleksi%20(create%20list)%201.png">
+
+> Menambah dan menghapus List
+img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/8.%20tipe%20koleksi%20(del%20%26%20add(insert)%20list)%202.png">
