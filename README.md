@@ -9,9 +9,11 @@
 
 # (PRAK) Praktikum 1 GUI
 # 1. Instruksi pertama pada Python IDLE
+> Membuat variabel nama dan umur, kemudian memanggilnya.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/1.%20print%20ucok.png">
 
 # 2. Membuat dan Eksekusi Kode Program pada Python
+> Menulis kode di text editor, disimpan di direkori Download dengan nama hello.py. Kemudian memanggilnya.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/2.%20hello%20world%20cd%20downloads.png">
 
 # 3. Variabel Dan Objek
