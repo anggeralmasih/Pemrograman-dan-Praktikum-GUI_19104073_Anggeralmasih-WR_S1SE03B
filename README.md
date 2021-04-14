@@ -31,3 +31,13 @@
 
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/5.%20perintah%20program%203.png">
 
+# 6. Tipe Numerik
+> A. Bilangan Bulat
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilbul)%201.png">
+
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilbul)%202.png">
+
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilbul)%203.png">
+
+> B. Bilangan Riil
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilriil)%204.png">
