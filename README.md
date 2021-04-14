@@ -25,10 +25,15 @@
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/4.%20case%20sensitive.png">
 
 # 5. Peirntah Program (Statement)
+> Titik koma pada python
+hanya diberikan pada saat ada dua atau lebih statement pada satu baris yang sama.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/5.%20perintah%20program%201.png">
 
+> Memecah perintah menjadi beberapa baris, dimana setiap baris harus dihubungkan dengan tanda backslash (\).
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/5.%20perintah%20program%202.png">
 
+> Tanda backslah tidak diperlukan jika kita menulis perintah kode dalam bentuk
+array atau kode yang terdapat diantara tanda (…), […] atau {…}.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/5.%20perintah%20program%203.png">
 
 # 6. Tipe Numerik
