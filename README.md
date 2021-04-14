@@ -41,3 +41,19 @@
 
 > B. Bilangan Riil
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilriil)%204.png">
+
+# 7. Tipe String
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%201.png">
+
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%202.png">
+
+> A. Membandingkan String
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%20(banding%20string)%203.png">
+
+> B. Mengekstrak Substring
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%20(ekstrak%20string)%204.png">
+
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%20(ekstrak%20string)%205.png">
+
+> C. Membuat String dengan format tertentu
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%20(format%20tertentu)%206.png">
