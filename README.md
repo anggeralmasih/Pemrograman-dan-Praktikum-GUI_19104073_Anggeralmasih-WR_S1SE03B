@@ -45,13 +45,17 @@ array atau kode yang terdapat diantara tanda (…), […] atau {…}.
 
 # 6. Tipe Numerik
 > A. Bilangan Bulat
+> Selain tipe integral primitive python juga dapat menggunakan bilangan integral dengan basis decimal (10), biner (2), octal (8) maupun heksadesimal (16).
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilbul)%201.png">
 
+> Tipe bilangan bulat yang kedua adalah tipe Boolean. Tipe data boleean bernilai true atau false.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilbul)%202.png">
 
+> Proses perhitungan dan penambahan bilangan pada python akan menghasilkan objek baru, hal ini terlihat dari id nya.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilbul)%203.png">
 
 > B. Bilangan Riil
+> Python menyediakan tipe float, decimal. Decimal dan complex.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilriil)%204.png">
 
 # 7. Tipe String
