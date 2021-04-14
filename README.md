@@ -57,14 +57,14 @@ array atau kode yang terdapat diantara tanda (…), […] atau {…}.
 
 > B. Bilangan Riil
 
-> Python menyediakan tipe float, decimal. Decimal dan complex.
+> Python menyediakan tipe float, decimal, dan complex.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilriil)%204.png">
 
 # 7. Tipe String
 > Objek string dapat dibuat dengan tiga cara yaitu:
-• Menggunakan tanda pertik tunggal
-• Menggunakan tanda petik ganda
-• Menggunakan tanda petik tunggal ataupun ganda yang direpetisi sebanyak tiga kali
+1. Menggunakan tanda pertik tunggal
+2. Menggunakan tanda petik ganda
+3. Menggunakan tanda petik tunggal ataupun ganda yang direpetisi sebanyak tiga kali.
 Tiap karakter di dalam string dapat diakses dengan tanda [] diikuti nomor array-nya.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%201.png">
 
