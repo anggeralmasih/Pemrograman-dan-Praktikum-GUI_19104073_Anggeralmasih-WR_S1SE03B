@@ -45,6 +45,7 @@ array atau kode yang terdapat diantara tanda (…), […] atau {…}.
 
 # 6. Tipe Numerik
 > A. Bilangan Bulat
+
 > Selain tipe integral primitive python juga dapat menggunakan bilangan integral dengan basis decimal (10), biner (2), octal (8) maupun heksadesimal (16).
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilbul)%201.png">
 
@@ -55,12 +56,19 @@ array atau kode yang terdapat diantara tanda (…), […] atau {…}.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilbul)%203.png">
 
 > B. Bilangan Riil
+
 > Python menyediakan tipe float, decimal. Decimal dan complex.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/6.%20tipe%20numerik%20(bilriil)%204.png">
 
 # 7. Tipe String
+> Objek string dapat dibuat dengan tiga cara yaitu:
+• Menggunakan tanda pertik tunggal
+• Menggunakan tanda petik ganda
+• Menggunakan tanda petik tunggal ataupun ganda yang direpetisi sebanyak tiga kali
+Tiap karakter di dalam string dapat diakses dengan tanda [] diikuti nomor array-nya.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%201.png">
 
+> Dapat memberikan kareakter khusus antara lain \n untuk memberikan enter, \’ untuk memberikan petik tunggal, \t untuk memberikan tab. Pada dasarnya karakter khusus dalam phyton harus diawali dengan backslash (\) diikuti dengan karakter khususnya. Menggabungkan dua objek string menjadi satu dengan operator +.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/7.%20tipe%20string%202.png">
 
 > A. Membandingkan String
