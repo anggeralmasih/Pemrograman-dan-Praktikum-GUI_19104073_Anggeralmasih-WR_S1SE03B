@@ -14,3 +14,10 @@
 # 2. Membuat dan Eksekusi Kode Program pada Python
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/2.%20hello%20world%20cd%20downloads.png">
 
+# 3. Variabel Dan Objek
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/3.%20var%20dan%20obj%201.png">
+
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/3.%20var%20dan%20obj%202.png">
+
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/3.%20var%20dan%20obj%203.png">
+
