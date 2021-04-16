@@ -7,7 +7,7 @@
 <img src = "https://github.com/anggeralmasih/Tugas-Pemrograman-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Latihan%20GUI%20(Qt%20Designer)/Lat_1.2.png">
 
 
-# (PRAK) Praktikum 1 GUI
+# (PRAK) Praktikum 1 GUI Modul 1
 # 1. Instruksi pertama pada Python IDLE
 > Membuat variabel nama dan umur, kemudian memanggilnya.
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/1.%20print%20ucok.png">
