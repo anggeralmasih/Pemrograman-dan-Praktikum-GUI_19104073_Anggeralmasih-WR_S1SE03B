@@ -88,3 +88,7 @@ Tiap karakter di dalam string dapat diakses dengan tanda [] diikuti nomor array-
 
 > Menambah dan menghapus List
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Praktikum%201/8.%20tipe%20koleksi%20(del%20%26%20add(insert)%20list)%202.png">
+
+# (TEORI) Tugas-Pemrograman-GUI_19104073_Anggeralmasih-WR_S1SE03B
+# Tugas 2 - Desain Layout GUI || Kisi-Kisi Project
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/Project%20Kisi-Kisi%20GUI/Capture.PNG">
