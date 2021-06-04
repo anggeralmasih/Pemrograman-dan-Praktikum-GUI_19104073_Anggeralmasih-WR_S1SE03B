@@ -116,10 +116,10 @@ Tiap karakter di dalam string dapat diakses dengan tanda [] diikuti nomor array-
 >Sesudah diclear
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/Clear%202.PNG">
 
-#No 2
+# No 2
 
 > Sebelum Indentasi dilakukan
-![Sebelum Indentasi](https://user-images.githubusercontent.com/72429078/120765670-a49a7a00-c543-11eb-81f2-185e1da30732.PNG)">
+![Sebelum Indentasi](https://user-images.githubusercontent.com/72429078/120765670-a49a7a00-c543-11eb-81f2-185e1da30732.PNG)
 
 > Sesudah Indentasi dilakukan
 ![Sesudah 1](https://user-images.githubusercontent.com/72429078/120765886-dd3a5380-c543-11eb-9378-b9c95d60e498.PNG)
