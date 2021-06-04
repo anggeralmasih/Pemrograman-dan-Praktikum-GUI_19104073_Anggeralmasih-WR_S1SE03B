@@ -100,3 +100,18 @@ Tiap karakter di dalam string dapat diakses dengan tanda [] diikuti nomor array-
 > Input di sebelah NIM, Nama, Jurusan, No.Telp menggunakan Line Edit.
 
 > Tambah, Edit, Clear, Hapus menggunakan Push Botton.
+
+# (TEORI) UTS GUI
+# No 1
+
+> Add Button
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/ADD.PNG">
+
+> Edit Button
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/Edit.PNG">
+
+>Clear Button
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/Clear1.PNG">
+
+<img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/Clear%202.PNG">
+
