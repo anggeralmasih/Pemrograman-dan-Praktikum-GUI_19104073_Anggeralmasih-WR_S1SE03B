@@ -104,16 +104,16 @@ Tiap karakter di dalam string dapat diakses dengan tanda [] diikuti nomor array-
 # (TEORI) UTS GUI
 # No 1
 
-> Add Button
+> Interasksi Add Button
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/ADD.PNG">
 
-> Edit Button
+> Interaksi Edit Button
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/Edit.PNG">
 
 >Clear Button
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/Clear1.PNG">
 
->Sesudah diclear
+>Interaksi Sesudah diclear
 <img src = "https://github.com/anggeralmasih/Pemrograman-dan-Praktikum-GUI_19104073_Anggeralmasih-WR_S1SE03B/blob/main/UTS/No_1/Clear%202.PNG">
 
 # No 2
@@ -126,6 +126,6 @@ Tiap karakter di dalam string dapat diakses dengan tanda [] diikuti nomor array-
 
 ![Sesudah 2](https://user-images.githubusercontent.com/72429078/120765936-ea574280-c543-11eb-8690-b235312d7705.PNG)
 
-
+> Analisa : Bahwa Indentasi pada python sangat berpengaruh work atau tidaknya code tersebut.
 
 
